@@ -25,9 +25,25 @@
         "width": "35",
         "height": "29"
       }
+  ],
+  "comments": [
+    "We created this template based on what emails developers needs, it is not an easy task but we bring you help",
+    "It is a long trip that never ends if you have any suggestion let us know"
+  ],
+
+  "footer": {
+    "direction": [
+      "Allergan USA, Inc.",
+      "5 Giralda Farms",
+      "Madison, NJ 07940"
     ],
-    "comments": [
-      "We created this template based on what emails developers needs, it is not an easy task but we bring you help",
-      "It is a long trip that never ends if you have any suggestion let us know"
+    "copy": [
+      "Allergan® and its design are trademarks of Allergan, Inc.",
+      "VRAYLAR® and its design are registered trademarks of",
+      "Forest Laboratories Holdings Ltd., and Allergan affiliate.",
+      "Licensed from Gedeon Richter Plc.",
+      "© 2018 Allergan. All rights reserved.",
+      "VRA116072 07/18"
     ]
+  }
 }
